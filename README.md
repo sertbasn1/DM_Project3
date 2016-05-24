@@ -1,8 +1,8 @@
 # DM_Project3
 
 ---------------------------------------------------------------------------------------
-** In order to execute the project open command window from any projects' top directory and **
-**run the following command.**
+** In order to execute the project open command window from any projects' top directory and
+run the following command.**
 
 **./main.sh**
 
