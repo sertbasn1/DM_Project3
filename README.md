@@ -1,15 +1,16 @@
 # DM_Project3
 
 ---------------------------------------------------------------------------------------
-*In order to execute the project open command window from any projects' top directory and 
-run the following command.
+** In order to execute the project open command window from any projects' top directory and **
+**run the following command.**
 
-./main.sh
+**./main.sh**
 
-Then, project output files are created automatically under the outputs directory.
+**Then, project output files are created automatically under the outputs directory.**
 
-*(Outputs.zip file is only uploaded as an example.
-If you run ./main.sh it will create the same under your project)
+*Outputs.zip file is only uploaded as an example.
+If you run ./main.sh it will create the same under your project
+
 ---------------------------------------------------------------------------------------
 *The project composes several files which are executed on different platforms. 
 So, please follow instructions carefully.
