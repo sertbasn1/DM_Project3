@@ -29,6 +29,6 @@ So, please follow instructions carefully.
 * plotdeveloperdist.m file can be executed in MATLAB in order to visualize the results
 found under the outputs directory.
 
-
+*For the last part of the project(visualization of dependencies), you can find the related files under UCINET Files.zip
 
 
